@@ -32,6 +32,6 @@
 	<img src="https://widgetbite.com/stats/Stepan-Zhnets" alt="watching_count" />
 </div> -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Stepan-Zhnets&repo=web-security-monitor)](https://github.com/Stepan-Zhnets/web-security-monitor)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Stepan-Zhnets&repo=web-security-monitor)](https://github.com/Stepan-Zhnets/web-security-monitor) -->
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Stepan-Zhnets&repo=motion-canvas)](https://github.com/Stepan-Zhnets/motion-canvas) -->
 

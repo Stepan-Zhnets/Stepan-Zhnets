@@ -46,7 +46,7 @@ me = StepanZhnets()
 <div>
 	<br>
 	<div align="center">
-		<img src="https://komarev.com/ghpvc/?username=Stepan-Zhnets&color=brightgreen" alt="watching_count" />
+		<!-- <img src="https://komarev.com/ghpvc/?username=Stepan-Zhnets&color=brightgreen" alt="watching_count" /> -->
 		<img alt="followers" src="https://img.shields.io/github/followers/Stepan-Zhnets?label=Followers&style=social">
 		<img src="https://img.shields.io/github/stars/Stepan-Zhnets?label=Stars" alt="stars">
 	<br><br>

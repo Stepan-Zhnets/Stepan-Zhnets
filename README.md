@@ -29,8 +29,8 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Stepan-Zhnets&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Stepan-Zhnets&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Stepan-Zhnets&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Stepan-Zhnets&theme=vue-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Stepan-Zhnets&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
